@@ -1,0 +1,6 @@
+{
+  "name": "Calculator",
+  "description": "A sleek, precision calculator with hidden Stark Industries encrypted communications protocol, voice notes, GIF vault, scheduled messaging, and auto-stealth lock.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
